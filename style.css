@@ -7,6 +7,11 @@ button {
     background-color: green;
     color: white;
 }
+button:hover {
+    background-color: darkgreen;
+    color: yellow;
+    cursor: pointer;
+}
 
 h1 {
     color: darkblue;
