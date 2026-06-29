@@ -10,3 +10,14 @@ button {
 h1 {
     color: darkblue;
 }
+nav
+{
+    background-color:black;
+    padding:10px;
+}
+nav a 
+{
+    color:white;
+    text-decoretion:none;
+    margin:10px;
+}
