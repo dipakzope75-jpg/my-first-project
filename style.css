@@ -40,6 +40,10 @@ nav a
     flex-wrap:wrap;
     padding:20px;
 }
+.card:hover {
+    background-color: lightyellow;
+    transform: scale(1.05);
+}
 
 
 
