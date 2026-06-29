@@ -30,3 +30,13 @@ nav a
     background-color:white;
     border:2px solid gray;
 }
+.container
+{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:20px;
+    flex-wrap:wrap;
+    padding:20px;
+}
+
