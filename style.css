@@ -52,11 +52,9 @@ nav a
 .container
 {
     display:flex;
-    justify-content:center;
-    align-items:center;
     gap:20px;
+    justify-content:center;
     flex-wrap:wrap;
-    padding:20px;
 }
 .card:hover {
     background-color: lightyellow;
