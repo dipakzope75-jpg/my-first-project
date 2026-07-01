@@ -72,6 +72,12 @@ img
     border-radius:5px;
     transition:0.3s;
 }
+@media(max-width:600px){
+    .card{
+         width:90%;
+         margin:20px auto;
+    }
+}
     
 
 
