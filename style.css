@@ -1,10 +1,7 @@
 body {
-      display:flex;
-      justify-content:center;
-      align-items:center;
-      min-height:100vh;
+     margin:0;
      background-color: lightblue;
-     text-align:center;
+     
 }
 
 button {
@@ -43,19 +40,18 @@ nav a
 {
     width:300px;
     min-height:220px;
-    margin:20px auto;
     padding:20px;
-    background-color:white;
-    border:2px solid gray;
-    transform:0.3s;
     box-shadow:0 4px 10px rgba(0,0,0,0.2);
+    border-radius:10px;
+    background:white;    
 }
 .container
 {
     display:flex;
-    gap:20px;
-    justify-content:center;
     flex-wrap:wrap;
+    justify-content:center;
+    gap:20px;
+   
 }
 .card:hover {
     background-color: lightyellow;
