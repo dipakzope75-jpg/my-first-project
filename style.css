@@ -2,7 +2,7 @@ body {
      margin:0;
      font-family:Arial,sans-serif;
      
-     background:linear-gradient(Angle,lightcyan,lightblue);   
+     background:linear-gradient(135deg,#89f7fe,#66a6ff);   
 }
 
 button {
