@@ -62,9 +62,9 @@ header nav
     display:flex;
     flex-wrap:wrap;
     justify-content:center;
+    align-items: flex-start;
     gap:20px;
-    align-itrms: flex-start;
-   
+    margin:40px auto;   
 }
 .card:hover {
     background-color: lightyellow;
