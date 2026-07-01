@@ -41,7 +41,8 @@ nav a
 }
 .card
 {
-    width:350px;
+    width:300px;
+    min-height:220px;
     margin:20px auto;
     padding:20px;
     background-color:white;
