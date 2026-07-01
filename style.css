@@ -117,13 +117,13 @@ header p
 {
    margin-boottm:15px;
 }
-.skills
+.skill
 {
       width:80%;
      margin:40px auto;
      text-align:center;
 }
-.skills-box
+.skill-box
 {
      display:inline-block;
      background:white;
@@ -133,7 +133,7 @@ header p
      box-shadow:0 4px 10px rgba(0,0,0,0,2);
      font-weight:bold;
 }
-.skills-box:hover
+.skill-box:hover
 {
     background:royalblue;
     color:white;
